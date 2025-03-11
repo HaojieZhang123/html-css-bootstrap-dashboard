@@ -4,3 +4,8 @@
 .navbar-brand img{
     width: 100%;
 }
+@media screen and (max-width: 576px){
+    .mobile-hidden{
+        display: none;
+    }
+}
